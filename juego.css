@@ -1,0 +1,44 @@
+body {
+  background-image: url("./2125.jpg");
+  background-size: 100% 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.titulo {
+  display: flex;
+  background-color: blue;
+  justify-content: center;
+}
+
+.parrafo {
+  display: flex;
+  justify-content: center;
+  gap: 220px;
+  font-size: 40px;
+  font-family: serif;
+  color: white;
+}
+
+.proceso {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: white;
+}
+
+.resultado {
+  font-size: 30px;
+  color: white;
+}
+
+.informacion {
+  width: 200px;
+  height: 20px;
+  box-shadow: 25px;
+}/*# sourceMappingURL=juego.css.map */
